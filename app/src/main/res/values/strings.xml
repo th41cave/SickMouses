@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Мышата</string>
+    <string name="cured_mouses">Вылеченные мышата: </string>
+    <string name="fault">Промахи: </string>
+    <string name="game_over">Игра окончена!</string>
+    <string name="start_game">Начать лечение</string>
+    <string name="manual">Добро пожаловать!</string>
+    <string name="best_result">Вы установили новый рекорд!</string>
+    <string name="congratulations">Поздравляем!</string>
+    <string name="menu_best_result">Ваш лучший результат</string>
+</resources>
